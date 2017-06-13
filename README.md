@@ -1,4 +1,4 @@
-# Express & mongoose REST API Boilerplate in ES6 with Code Coverage [![Awesome]
+# Express & mongoose REST API Boilerplate in ES6
 
 ## Overview
 
